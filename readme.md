@@ -1,6 +1,6 @@
 Configuración de un repositorio
 git init git clone git config
-Este tutorial ofrece una visión general sobre cómo configurar un repositorio con el sistema de control de versiones Git. Se explicará cómo iniciar un repositorio de Git para un proyecto nuevo o existente. A continuación, se ofrecen ejemplos de workflows de repositorios creados localmente o clonados de repositorios remotos. La guía supone que estás mínimamente familiarizado con la interfaz de línea de comandos.xd
+Este tutorial ofrece una visión general sobre cómo configurar un repositorio con el sistema de control de versiones Git. Se explicará cómo iniciar un repositorio de Git para un proyecto nuevo o existente. A continuación, seee ofrecen ejemplos de workflows de repositorios creados localmente o clonados de repositorios remotos. La guía supone que estás mínimamente familiarizado con la interfaz de línea de comandos.xd
 
 video thumbnail
 Los puntos de mayor nivel que cubrirá esta guía son:
